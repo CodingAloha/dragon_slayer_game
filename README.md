@@ -14,7 +14,7 @@ Randomized damage values for attacks and defenses keep each battle unique.
 Both the Hero and Dragon have heatlh bars that update based on attacks and defenses.
 
 **How to play**
-Open bash terminal
-git clone https://github.com/CodingAloha/ddragon_slayer_game.git
-cd dragon_slayer_game
-python dragon_slayer_game.py
+- Open bash terminal
+- git clone https://github.com/CodingAloha/ddragon_slayer_game.git
+- cd dragon_slayer_game
+- python dragon_slayer_game.py
